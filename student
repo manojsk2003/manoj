@@ -1,0 +1,14 @@
+package me:
+public class main(){
+public static void main(string[]args){
+student s=new student();
+s.age=19;
+s.marks=500;
+s.name="manoj";
+system.out.println("name ="+s.name+"\n age="+s.age+"\n marks="+s.marks);
+}
+}
+
+
+
+
