@@ -1,0 +1,6 @@
+package me;
+public class Student {
+int age;
+int marks;
+string name ;
+}
